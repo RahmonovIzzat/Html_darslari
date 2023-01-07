@@ -1,0 +1,23 @@
+.header{
+    
+    height: 600px;
+}
+
+.header-nav{
+   
+    height: 500px;
+
+}
+
+.nav-ul{
+    
+    height: 400px;
+    text-align: center;
+}
+
+.nav-ul-li{
+    
+   display: inline-block;
+   margin: 5px;
+   padding: 5px;
+}
