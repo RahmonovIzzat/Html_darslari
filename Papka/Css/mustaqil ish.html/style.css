@@ -35,6 +35,11 @@
     text-decoration: none;
 }
 
+
+.ul-li a:hover{
+    color: black;
+}
+
 .banner-text{
     width: 50%;
     float: left;
