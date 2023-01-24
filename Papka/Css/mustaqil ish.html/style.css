@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.header{
+    height: 80px;
+}
+
+.hed-nav{
+    height: 80px;
+}
+
+.nav-ul{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.ul-li{
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25.5;
+    line-height: 42px;
+    
+}
+
+
+.li-link{
+    color: #90E051;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+
+
+
+.banner-img{
+    text-align: right;
+}
+
+.ban-h1{
+    color: #90E051;
+}
