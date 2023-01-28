@@ -20,14 +20,14 @@ line-height: 42px;;
 }
 
 .nav-ul{
-    
+    font-family: 'Rubik', sans-serif;
     height: 400px;
     text-align: center;
     padding-top: 5px;
 }
 
 .nav-ul-li{
-    
+    font-family: 'Rubik', sans-serif;
    display: inline-block;
    margin: 20px;
    padding: 5px;
