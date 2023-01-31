@@ -98,6 +98,55 @@
     font-size: 30px;
     margin-left: 45px;
     margin-top: 30px;
+    background-color: #90E051;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 18px;
+}
+.button1:hover{
+    background-color: white;
+    color: #90E051;
+    text-shadow: 2px 2px;
 }
 
+.btn2{
+    width: 246px;
+    height: 88px;
+    font-family: "Rubik";
+    font-size: 30px;
+    margin-left: 45px;
+    margin-top: 30px;
+    background-color:white;
+    color: #90E051;
+    border: none;
+    border-radius: 15px;
+}
+
+.btn2:hover{
+    background-color: #90E051;
+    color: white;
+    text-shadow: 2px 2px;
+}
+.li-link2{
+    font-family: 'Rubik', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.ul-li2{
+    font-family: 'Rubik', sans-serif;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25.5;
+    line-height: 42px;
+}
+.ul-li2 a:hover{
+    font-family: 'Rubik', sans-serif;
+    color: #90E051;
+    font-size: 25px;
+}
 
